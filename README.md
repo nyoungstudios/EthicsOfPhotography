@@ -1,4 +1,4 @@
-# EthicsOfPhotography
+# Ethics of Post-Processing in Photography Website
 This is my website for my English paper about the ethics of post-processing in photography.
 
 If you want to use my essay article as a source, please city it appropriately. Feel free to share this website article with anyone who is interested in post-processing.
